@@ -5,3 +5,4 @@ Topics:
 - OS Structures
 - Process
 - CPU scheduling
+- IPC: shared memory and message passing
