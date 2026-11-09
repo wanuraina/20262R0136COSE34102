@@ -4,3 +4,4 @@ Course Code: COSE341
 Topics:
 - OS Structures
 - Process
+- CPU scheduling
