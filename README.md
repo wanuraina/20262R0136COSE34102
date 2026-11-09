@@ -2,3 +2,4 @@
 Operating Systems course
 Course Code: COSE341
 Topics:
+- OS Structures
