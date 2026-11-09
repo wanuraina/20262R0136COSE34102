@@ -6,3 +6,4 @@ Topics:
 - Process
 - CPU scheduling
 - IPC: shared memory and message passing
+- IPC examples: pipes, sockets, signals
