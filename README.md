@@ -7,5 +7,3 @@ Topics:
 - CPU scheduling
 - IPC: shared memory and message passing
 - IPC examples: pipes, sockets, signals
-- Context switch: saving one process and loading another
-- Context switch: saving one process and loading another
